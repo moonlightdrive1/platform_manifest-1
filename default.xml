@@ -30,11 +30,11 @@
   <remote  name="devices"
 	   fetch="https://github.com/Cosmic-Devices"
 	   revision="refs/heads/n-mr2" />
-
-  <default revision="LA.UM.5.8.r1-03000-8x98.0 "
-           remote="caf"
-           sync-j="4"
-           sync-c="true"/>
+  
+<remote  name="caf"
+           fetch="git://codeaurora.org/quic/la"
+           review="codeaurora.org"
+           revision="refs/tags/LA.UM.5.8.r1-03000-8x98.0" />
 
   <project name="abl/tianocore/edk2" path="bootable/bootloader/edk2" />
   <project groups="pdk-cw-fs,pdk-fs" name="device/common" />
