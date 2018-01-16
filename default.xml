@@ -12,6 +12,10 @@
   <remote  name="omni"
            fetch="https://github.com/omnirom"
            revision="android-7.1" />
+ 
+  <remote  name="omnirom"
+           fetch="https://github.com/omnirom"
+           revision="android-7.1" />
 
   <remote  name="caf"
            fetch="http://source.codeaurora.org/quic/la"
