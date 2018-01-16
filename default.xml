@@ -17,10 +17,6 @@
            fetch="https://github.com/omnirom"
            revision="android-7.1" />
 
-  <remote  name="caf"
-           fetch="git://codeaurora.org/quic/la"
-           review="codeaurora.org"/>
-
   <remote  name="github"
            fetch="https://github.com"/>
 
