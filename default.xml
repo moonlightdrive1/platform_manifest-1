@@ -18,7 +18,7 @@
            revision="android-7.1" />
 
   <remote  name="caf"
-           fetch="http://source.codeaurora.org/quic/la"
+           fetch="git://codeaurora.org/quic/la"
            review="codeaurora.org"/>
 
   <remote  name="github"
@@ -31,7 +31,7 @@
 	   fetch="https://github.com/Cosmic-Devices"
 	   revision="refs/heads/n-mr2" />
 
-  <default revision="refs/tags/LA.UM.6.4.r4-00300-8x98.0"
+  <default revision="LA.UM.5.8.r1-03000-8x98.0 "
            remote="caf"
            sync-j="4"
            sync-c="true"/>
