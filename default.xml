@@ -719,7 +719,7 @@
   <!-- END COSMIC-OS -->
 
   <!-- BEGIN CAF -->
-  <project name="platform/packages/apps/WallpaperPicker" path="packages/apps/WallpaperPicker" revision="refs/tags/LA.UM.5.6.r1-04700-89xx.0" />
+  <project name="platform/packages/apps/WallpaperPicker" path="packages/apps/WallpaperPicker" revision="refs/tags/LA.UM.5.8.r1-03000-8x98.0" />
   <!-- END CAF -->
 
   <!-- BEGIN SUBSTRATUM -->
