@@ -31,7 +31,7 @@
 	   fetch="https://github.com/Cosmic-Devices"
 	   revision="refs/heads/n-mr2" />
   
-<default revision="refs/tags/LA.UM.5.6.r1-05400-89xx.0"
+<default revision="refs/tags/LA.UM.5.8.r1-03000-8x98.0 "
            remote="caf"
            sync-j="4"
            sync-c="true"/>
