@@ -718,10 +718,6 @@
   <project name="platform_vendor_qcom-opensource_fm" path="vendor/qcom/opensource/fm" remote="cosmic-os" />
   <!-- END COSMIC-OS -->
 
-  <!-- BEGIN CAF -->
-  <project name="platform/packages/apps/WallpaperPicker" path="packages/apps/WallpaperPicker" revision="refs/tags/LA.UM.5.8.r1-03000-8x98.0" />
-  <!-- END CAF -->
-
   <!-- BEGIN SUBSTRATUM -->
   <project name="substratum/interfacer" path="packages/apps/ThemeInterfacer" remote="github" revision="n-rootless" />
   <!-- ENG SUBSTRATUM -->
